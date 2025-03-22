@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杨子玮的博客</title><link>https://yzwsoul23.github.io</link><description>分享一下日常所学技术</description><copyright>杨子玮的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/84693963?v=4</url><title>avatar</title><link>https://yzwsoul23.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 19:56:41 +0000</lastBuildDate><managingEditor>杨子玮的博客</managingEditor><ttl>60</ttl><webMaster>杨子玮的博客</webMaster><item><title>Windows运行命令</title><link>https://yzwsoul23.github.io/post/Windows-yun-xing-ming-ling.html</link><description>&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杨子玮的博客</title><link>https://yzwsoul23.github.io</link><description>分享一下日常所学技术</description><copyright>杨子玮的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/84693963?v=4</url><title>avatar</title><link>https://yzwsoul23.github.io</link></image><lastBuildDate>Sat, 22 Mar 2025 06:17:03 +0000</lastBuildDate><managingEditor>杨子玮的博客</managingEditor><ttl>60</ttl><webMaster>杨子玮的博客</webMaster><item><title>英语月份</title><link>https://yzwsoul23.github.io/post/ying-yu-yue-fen.html</link><description>| 英文   | 中文   |
+|-----------|-------|
+| January   | 一月   |
+| February  | 二月   |
+| March     | 三月   |
+| April     | 四月   |
+| May       | 五月   |
+| June      | 六月   |
+| July      | 七月   |
+| August    | 八月   |
+| September | 九月   |
+| October   | 十月   |
+| November  | 十一月  |
+| December  | 十二月  |。</description><guid isPermaLink="true">https://yzwsoul23.github.io/post/ying-yu-yue-fen.html</guid><pubDate>Sat, 22 Mar 2025 06:16:39 +0000</pubDate></item><item><title>Windows运行命令</title><link>https://yzwsoul23.github.io/post/Windows-yun-xing-ming-ling.html</link><description>&#13;
 | 工具名称                           | 命令                                    |&#13;
 | ---------------------------------- | --------------------------------------- |&#13;
 | 关于Windows                        | winver                                  |&#13;
